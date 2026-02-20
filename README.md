@@ -14,8 +14,10 @@ Métodos construtores
 
 Getters e Setters
 
+
 🏗️ Estrutura do Projeto
 O projeto é composto por três classes principais:
+
 
 1. Item.java
 Representa um produto que pode ser adicionado ao carrinho.
@@ -26,6 +28,7 @@ Métodos getters e setters
 
 Método apresentar() para exibir informações do item
 
+
 2. Carrinho.java
 Gerencia a lista de itens e as operações do carrinho.
 
@@ -34,6 +37,7 @@ adicionarItem(Item item): adiciona um item ao carrinho
 removerItem(int codigo): remove um item pelo código
 
 calcularPreco(): calcula e exibe o total da compra
+
 
 3. Main.java
 Classe principal para testar a funcionalidade.
@@ -45,6 +49,7 @@ Adiciona itens ao carrinho
 Remove um item
 
 Calcula o total
+
 
 🚀 Como Executar
 Pré-requisitos
